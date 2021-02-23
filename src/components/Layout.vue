@@ -47,6 +47,7 @@ export default {
       }
    }
 }
+require ('../freqtimeupdate');
 </script>
 
 <style scoped>
